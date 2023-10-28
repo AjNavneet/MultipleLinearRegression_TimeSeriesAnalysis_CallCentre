@@ -82,11 +82,11 @@ This project aims to build a Multiple linear regression model for time series an
 
 1. **output**: The output folder contains all the visualization graphs. There are around 20 different plots. The symbolic regression model is saved in a pickle file. Similarly, you can save other models that can be used later.
 
-2. **lib**: This is a reference folder. It contains the original iPython notebook that we saw in the videos. The PPT used during the videos is also present here.
+2. **lib**: This is a reference folder. It contains the original iPython notebook.
 
 ---
 
-## Key Cooncepts Explored
+## Key Concepts Explored
 
 1. Basics of time series.
 2. Check for the normality in data using the density plots and Q-Q plots.
