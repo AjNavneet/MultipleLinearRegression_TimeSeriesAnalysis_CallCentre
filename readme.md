@@ -86,17 +86,3 @@ This project aims to build a Multiple linear regression model for time series an
 
 ---
 
-## Key Concepts Explored
-
-1. Basics of time series.
-2. Check for the normality in data using the density plots and Q-Q plots.
-3. Understanding the difference between correlation and autocorrelation.
-4. Training a multiple linear regression model for timeseries data.
-5. Remove autocorrelations to better train the model.
-6. Understand the difference between regression and autoregression.
-7. Understand symbolic regression model.
-8. Build a Symbolic regression model.
-9. Evaluate the results with performance metrics like RMSE.
-
----
-
